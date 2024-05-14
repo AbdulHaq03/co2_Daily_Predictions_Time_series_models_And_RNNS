@@ -25,6 +25,6 @@ The project is divided into two main parts: the frontend developed with React JS
 2. Install the required Node.js packages:
 
 ### How to Run 
-1. python app.py in server folder
-2. npm run dev in client folder
+1. python app.py in `server` folder
+2. npm run dev in `client` folder
 
