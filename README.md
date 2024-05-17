@@ -1,5 +1,9 @@
 # CO2 Daily Predictions: Time Series Models and RNNs
 
+# GUI:
+
+![Screenshot 2024-05-14 173957](https://github.com/AbdulHaq03/co2_Daily_Predictions_Time_series_models_And_RNNS/assets/132687150/86cc81ab-79a4-4a4a-9b72-6adfd898aaf1)
+
 This repository is dedicated to the implementation of various time series forecasting models for predicting CO2 levels. It combines traditional statistical models with advanced neural networks, providing a comprehensive approach to forecasting. The project is structured to utilize React JS for the frontend, Flask for the backend, and SQLite3 for database management.
 
 ## Project Overview
